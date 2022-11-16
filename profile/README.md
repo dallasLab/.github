@@ -1,5 +1,6 @@
 
-<img align="left" src="https://github.com/dallasLab/.github/blob/main/profile/logo.png" width="200">
+<img align="left" src="https://github.com/dallasLab/.github/blob/master/profile/logo.png" width="200" style="vertical-align:middle;margin:20px 20px">
+
 
 ## Dallas lab
 
