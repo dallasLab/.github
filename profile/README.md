@@ -6,7 +6,7 @@
 
 We are a group of theory-minded ecologists doing work on population, community, and disease ecology. We use a combination of approaches, including leveraging existing data resources, developing theoretical models, and performing laboratory microcosm experiments.
 
-💻 Read more on our [website](https://taddallas.github.io), where you can see profiles of the [great scientists in the lab](https://taddallas.github.io/people), [PDFs of published work]((https://taddallas.github.io/papers), [software we've developed](https://taddallas.github.io/software), and [courses and multimedia products](https://taddallas.github.io/multimedia).
+💻 Read more on our [website](https://taddallas.github.io), where you can see profiles of the [great scientists in the lab](https://taddallas.github.io/people), [PDFs of published work](https://taddallas.github.io/papers), [software we've developed](https://taddallas.github.io/software), and [courses and multimedia products](https://taddallas.github.io/multimedia).
 
 
 ### On our Github...
